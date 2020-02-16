@@ -16,6 +16,7 @@
 		90D0296B23F7DEBF00420308 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 90D0296923F7DEBF00420308 /* LaunchScreen.storyboard */; };
 		90D0297623F7DEBF00420308 /* collectionpriyaTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 90D0297523F7DEBF00420308 /* collectionpriyaTests.swift */; };
 		90D0298123F7DEBF00420308 /* collectionpriyaUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 90D0298023F7DEBF00420308 /* collectionpriyaUITests.swift */; };
+		90D0298F23F7E0FF00420308 /* CollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 90D0298E23F7E0FF00420308 /* CollectionViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		90D0297C23F7DEBF00420308 /* collectionpriyaUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = collectionpriyaUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		90D0298023F7DEBF00420308 /* collectionpriyaUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = collectionpriyaUITests.swift; sourceTree = "<group>"; };
 		90D0298223F7DEBF00420308 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		90D0298E23F7E0FF00420308 /* CollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CollectionViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +111,7 @@
 				90D0296923F7DEBF00420308 /* LaunchScreen.storyboard */,
 				90D0296C23F7DEBF00420308 /* Info.plist */,
 				90D0296423F7DEBC00420308 /* collectionpriya.xcdatamodeld */,
+				90D0298E23F7E0FF00420308 /* CollectionViewCell.swift */,
 			);
 			path = collectionpriya;
 			sourceTree = "<group>";
@@ -262,6 +265,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				90D0298F23F7E0FF00420308 /* CollectionViewCell.swift in Sources */,
 				90D0296023F7DEBC00420308 /* ViewController.swift in Sources */,
 				90D0296623F7DEBC00420308 /* collectionpriya.xcdatamodeld in Sources */,
 				90D0295C23F7DEBC00420308 /* AppDelegate.swift in Sources */,
