@@ -11,7 +11,7 @@ import UIKit
 class ViewController: UIViewController,UICollectionViewDelegate,UICollectionViewDataSource,UIImagePickerControllerDelegate,UINavigationControllerDelegate{
    
     var arr = [UIImage]()
-    var ImgD:UIImage!
+    //var ImgD:UIImage!
     
 
     
